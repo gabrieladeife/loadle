@@ -1,0 +1,30 @@
+{
+ "solutions" : [
+    {"name":"azena", "species":"sylvain", "gender":"female", "location":"rohendel", "profession":["sidereal","queen"]},
+    {"name":"inanna", "species": "sylvain", "gender":"female", "location":"rohendel", "profession": ["sidereal","queen"]}, 
+    {"name":"lenora", "species":"sylvain", "gender":"female", "location":"rohendel", "profession":["dream walker"]},
+    {"name":"orelda","species":"sylvain", "gender":"female", "location":"rohendel", "profession":["servant of undart"]},
+    {"name":"shandi", "species":"yoz", "gender":"male", "location":"illusion bamboo island", "profession":["sidereal"]},
+    {"name":"wei", "species":"human", "gender":"male", "location":"anikka", "profession":["sidereal"]},
+    {"name":"kadan", "species":"human", "gender":"male", "location":"unknown", "profession":["sidereal"]},
+    {"name":"balthorr", "species":"umar", "gender":"male", "location":"yorn", "profession":["sidereal"]},
+    {"name":"nineveh", "species":"lazenith", "gender":"female", "location":"whispering islet", "profession":["sidereal"]},
+    {"name":"thirain", "species":"human", "gender":"male", "location":"luterra", "profession":["sidereal","king"]},
+    {"name":"seria", "species":"human", "gender":"female", "location":"rethramis", "profession":["bard"]},
+    {"name":"neria (rethramis)", "species":"human", "gender":"female", "location":"rethramis", "profession":["tavern keeper"]},
+    {"name":"neria (yorn)", "species":"umar", "gender":"female", "location":"yorn", "profession":["tavern keeper"]},
+    {"name":"armen", "species":"delain", "gender":"male", "location":"unknown","profession":["priest"]},
+    {"name":"galatur", "species":"umar", "gender":"male", "location":"yorn","profession":["sidereal"]},
+    {"name":"sien", "species":"human","gender":"male","location":"anikka","profession":["sidereal"]},
+    {"name":"zinnervale","species":"human","gender":"male","location":"illusion bamboo island", "profession":["student of shandi"]},
+    {"name":"brelshaza", "species":"demon", "gender":"female","location":"petrania", "profession":["legion commander"]},
+    {"name":"akkan", "species":"demon","gender":"male","location":"petrania","profession":["legion commander"]},
+    {"name":"kakul-saydon","species":"demon","gender":"male", "location":"petrania","profession":["legion commander"]},
+    {"name":"valtan","species":"demon","gender":"male","location":"petrania","profession":["legion commander"]},
+    {"name":"thaemine","species":"demon","gender":"male","location":"petrania","profession":["legion commander"]},
+    {"name":"vykas","species":"demon","gender":"female","location":"petrania","profession":["legion commander"]},
+    {"name":"echidna","species":"demon","gender":"female","location":"petrania","profession":["legion commander"]}
+
+
+]
+}
