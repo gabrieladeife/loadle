@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## BEFORE RUNNING THE REACT SERVER: RUN `json-server ./data/db.json --port 3001`
+
+Runs a node server for the db.json file.
+
 ## Available Scripts
 
 In the project directory, you can run:
